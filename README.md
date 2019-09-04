@@ -1,2 +1,2 @@
 # hello-world-II
-My first repository to learn github.
+This is my first repository to learn github. I'm Jennifer Knox, an technically trained coder. I am now learning github and JS.
